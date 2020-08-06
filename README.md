@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-[linkedin]: linkedin.com/in/alessandro-sebastianelli-58545915b
+[linkedin]: https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/detail/contact-info/
