@@ -1,25 +1,17 @@
 ### Hi there, I am Alessandro Sebastianelli 👋
 
-<!--
-**Sebbyraft/Sebbyraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ## I am an Electronic Engineer and a PhD candidate at University of Sannio
 
 - 🔭 I am currently workin on AI algorithms applied to Satellite imagery
 - 🌱 I am currently learning everything 🤣
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love photography 📷 and play guitar 🎸
+- 🥅 2020 Goals: Work on more project
 
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -29,9 +21,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]()
+[<img align="left" alt="Python" width="26px" src="https://www.allafinedelpalo.it/wp-content/uploads/2015/12/Python-logo-notext.svg_.png"/>]()
+[<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png"/>]()
 
 <br />
 <br />
 
 
 [linkedin]: https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/detail/contact-info/
+[facebook]: https://www.facebook.com/alessandro.sebastianelli.587
+[instagram]: https://www.instagram.com/alessandrosebastianelli/?hl=it
