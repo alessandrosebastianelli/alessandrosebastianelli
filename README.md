@@ -4,7 +4,7 @@
 
 - 🔭 I am currently workin on AI algorithms applied to Satellite imagery
 - 🌱 I am currently learning everything 🤣
-- ⚡ Fun fact: I love photography 📷 and play guitar 🎸
+- ⚡ Fun fact: I love photography 📷 and playing guitar 🎸
 - 🥅 2021 Goals: Work on more projects
 
 
