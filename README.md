@@ -5,7 +5,7 @@
 - 🔭 I am currently workin on AI algorithms applied to Satellite imagery
 - 🌱 I am currently learning everything 🤣
 - ⚡ Fun fact: I love photography 📷 and playing guitar 🎸
-- 🥅 2021 Goals: Work on more projects
+- 🥅 2022 Goals: Work on more projects
 
 
 ### Connect with me:
@@ -26,7 +26,6 @@
 [<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png"/>]()
 [<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>]()
 [<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>]()
-[<img align="left" alt="Arduino" width="26px" src="https://www.linuxarp.info/wp-content/uploads/2018/07/linuxarp_arduino.png"/>]()
 [<img align="left" alt="C" width="26px" src="https://icon-library.com/images/java-icon-image/java-icon-image-0.jpg"/>]()
 
 <br />
