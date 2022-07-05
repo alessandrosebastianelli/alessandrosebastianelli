@@ -32,7 +32,7 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/detail/contact-info/
+[linkedin]: https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/
 [facebook]: https://www.facebook.com/alessandro.sebastianelli.587
 [instagram]: https://www.instagram.com/alessandrosebastianelli/?hl=it
 [instagram2]: https://www.instagram.com/a.sebastianelli_photographer/
