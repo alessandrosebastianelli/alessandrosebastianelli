@@ -1,4 +1,4 @@
-### Hi there, I am Alessandro Sebastianelli 👋
+# Hi there, I am Alessandro Sebastianelli 👋
 
 ## I am an Electronic Engineer and a PhD candidate at University of Sannio
 
@@ -8,9 +8,10 @@
 - 🥅 2022 Goals: Work on more projects
 
 
+### My GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=alessandrosebastianelli&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
-### My top languages are
+### My top languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosebastianelli&langs_count=8)
 
 <!-- Actual text -->
