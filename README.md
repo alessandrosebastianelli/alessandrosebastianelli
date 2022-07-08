@@ -31,6 +31,13 @@
 <br />
 <br />
 
+![](https://github-readme-stats.vercel.app/api?username=alessandrosebastianelli&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
+
+### My top languages are: Python, C, C++, Julia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosebastianelli&langs_count=8)](https://github.com/alessandrosebastianelli/github-readme-stats)
+
+<!-- Actual text -->
+
 
 [linkedin]: https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/
 [facebook]: https://www.facebook.com/alessandro.sebastianelli.587
