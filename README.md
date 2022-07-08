@@ -6,6 +6,7 @@
 - 🌱 I am currently learning everything 🤣
 - ⚡ Fun fact: I love photography 📷 and playing guitar 🎸
 - 🥅 2022 Goals: Work on more projects
+- ![](https://komarev.com/ghpvc/?username=alessandrosebastianelli&style=plastic)
 
 
 ### My GitHub stats
