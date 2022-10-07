@@ -1,7 +1,5 @@
 # Hi there, I am Alessandro Sebastianelli 👋
 
-## I am an Electronic Engineer and a PhD candidate at University of Sannio
-
 - 🔭 I am currently workin on AI algorithms applied to Satellite imagery
 - 🌱 I am currently learning everything 🤣
 - ⚡ Fun fact: I love photography 📷 and playing guitar 🎸
