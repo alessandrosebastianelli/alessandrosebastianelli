@@ -6,7 +6,6 @@
 - 🥅 2023 Goals: Work on more projects
 - ![](https://komarev.com/ghpvc/?username=alessandrosebastianelli&style=plastic)
 
-
 ### My GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=alessandrosebastianelli&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
