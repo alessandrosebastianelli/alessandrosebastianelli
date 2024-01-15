@@ -1,9 +1,9 @@
 # Hi there, I am Alessandro Sebastianelli 👋
 
-- 🔭 I am currently working on AI algorithms applied to Satellite imagery
+- 🔭 I am currently working on AI and Quantum AI algorithms applied to Satellite imagery
 - 🌱 I am currently learning everything 🤣
 - ⚡ Fun fact: I love photography 📷 and playing guitar 🎸
-- 🥅 2023 Goals: Work on more projects
+- 🥅 2024 Goals: Work on more projects
 - ![](https://komarev.com/ghpvc/?username=alessandrosebastianelli&style=plastic)
 
 ### My GitHub stats
